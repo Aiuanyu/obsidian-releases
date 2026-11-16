@@ -73456,5 +73456,12 @@
     "author": "Walker Brown",
     "description": "Hexcrawl generator for TTRPGs like D&D and OSR: a hex map from a seed in your note, with terrain, rivers, roads and towns, something in every hex, and a party that travels day by day in fog of war. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wickedcreativesystems/hexwright"
+  },
+  {
+    "id": "simple-track-changes",
+    "name": "Simple Track Changes (追蹤修訂)",
+    "author": "GHSRobert 江瑋平／愛灣語",
+    "description": "Track Changes mode for Live Preview and Source Mode using ++additions++ and %%~~deletions~~%%.",
+    "repo": "Aiuanyu/obsidian-track-changes"
   }
 ]
